@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KZJpQ5h3djcOnW92EYTu3LVtDPO2AUTbxwgZ6urys0F+u8snD3d1AawwU0G2jFxmqzn9vVztA92qcuAlgrk7Ng==",
+  "success": true,
+  "projectFilePath": "/Users/lukeking/Desktop/POS_Practice/POS_Console/POS_Console/POS_Console.csproj",
+  "expectedPackageFiles": [
+    "/Users/lukeking/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.18/microsoft.netcore.app.host.osx-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

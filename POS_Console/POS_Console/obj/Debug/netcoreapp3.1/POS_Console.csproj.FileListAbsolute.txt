@@ -1,0 +1,13 @@
+/Users/lukeking/Desktop/POS_Practice/POS_Console/POS_Console/bin/Debug/netcoreapp3.1/POS_Console.deps.json
+/Users/lukeking/Desktop/POS_Practice/POS_Console/POS_Console/bin/Debug/netcoreapp3.1/POS_Console.runtimeconfig.json
+/Users/lukeking/Desktop/POS_Practice/POS_Console/POS_Console/bin/Debug/netcoreapp3.1/POS_Console.runtimeconfig.dev.json
+/Users/lukeking/Desktop/POS_Practice/POS_Console/POS_Console/bin/Debug/netcoreapp3.1/POS_Console.dll
+/Users/lukeking/Desktop/POS_Practice/POS_Console/POS_Console/bin/Debug/netcoreapp3.1/POS_Console.pdb
+/Users/lukeking/Desktop/POS_Practice/POS_Console/POS_Console/obj/Debug/netcoreapp3.1/POS_Console.csproj.AssemblyReference.cache
+/Users/lukeking/Desktop/POS_Practice/POS_Console/POS_Console/obj/Debug/netcoreapp3.1/POS_Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukeking/Desktop/POS_Practice/POS_Console/POS_Console/obj/Debug/netcoreapp3.1/POS_Console.AssemblyInfoInputs.cache
+/Users/lukeking/Desktop/POS_Practice/POS_Console/POS_Console/obj/Debug/netcoreapp3.1/POS_Console.AssemblyInfo.cs
+/Users/lukeking/Desktop/POS_Practice/POS_Console/POS_Console/obj/Debug/netcoreapp3.1/POS_Console.csproj.CoreCompileInputs.cache
+/Users/lukeking/Desktop/POS_Practice/POS_Console/POS_Console/obj/Debug/netcoreapp3.1/POS_Console.dll
+/Users/lukeking/Desktop/POS_Practice/POS_Console/POS_Console/obj/Debug/netcoreapp3.1/POS_Console.pdb
+/Users/lukeking/Desktop/POS_Practice/POS_Console/POS_Console/obj/Debug/netcoreapp3.1/POS_Console.genruntimeconfig.cache
