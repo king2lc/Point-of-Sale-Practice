@@ -14,31 +14,32 @@ namespace POS_Console
             string[] items = new string[count];
             float[] prices = new float[count];
             int[] quantity = new int[count];
-            
-           
-            Console.WriteLine("You bought: " + item);
-            Console.WriteLine("For a total of: " + price * quantity);
 
-
-        }
-
-        public float GetInput(int items, float total)
-        {
-            for (int i = 0; i <= 3; i++)
+            float runningTotal = 0;
+            for (int i = 0; i < count; i++)
             {
-                Console.WriteLine("Input Item Name.");
-                string item = Console.ReadLine();
-                Console.WriteLine("Input item price.");
-                float price = float.Parse(Console.ReadLine());
-                Console.WriteLine("Purchase how many?");
-                int quantity = Convert.ToInt32(Console.ReadLine());
+                //one by one for each item
+                Console.WriteLine("Name of item:");
+                items[i] = Console.ReadLine();
 
-                return count + 3;
-                return;
+                Console.WriteLine("Price of item " + i + ":");
+                prices[i] = float.Parse(Console.ReadLine());
+
+                Console.WriteLine("Quantity for this item:");
+                quantity[i] = Convert.ToInt16(Console.ReadLine());
+
+                Console.WriteLine("Item tabulated, on to the Next item.");
+                runningTotal += prices[i] * quantity[i];
+
             }
-            return count;
-        }
+            Console.WriteLine("You purchased " + items.Count() + " items.");
+            Console.WriteLine("For a total of: " + runningTotal);
 
+        }
 
     }
+
+
+
 }
+

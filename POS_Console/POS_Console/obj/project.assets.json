@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/lukeking/Desktop/POS_Practice/POS_Console/POS_Console/POS_Console.csproj",
+      "projectUniqueName": "/Users/lukeking/Desktop/POS_Practice/Point-of-Sale-Practice/POS_Console/POS_Console/POS_Console.csproj",
       "projectName": "POS_Console",
-      "projectPath": "/Users/lukeking/Desktop/POS_Practice/POS_Console/POS_Console/POS_Console.csproj",
+      "projectPath": "/Users/lukeking/Desktop/POS_Practice/Point-of-Sale-Practice/POS_Console/POS_Console/POS_Console.csproj",
       "packagesPath": "/Users/lukeking/.nuget/packages/",
-      "outputPath": "/Users/lukeking/Desktop/POS_Practice/POS_Console/POS_Console/obj/",
+      "outputPath": "/Users/lukeking/Desktop/POS_Practice/Point-of-Sale-Practice/POS_Console/POS_Console/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/lukeking/.config/NuGet/NuGet.Config"
