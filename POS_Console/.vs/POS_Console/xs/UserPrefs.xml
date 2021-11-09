@@ -1,17 +1,22 @@
 ﻿<Properties StartupConfiguration="{13EE7D70-8F7B-4B89-B46D-40FA9F70E22F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="POS_Console/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="POS_Console/Items.cs">
     <Files>
-      <File FileName="POS_Console/Program.cs" Line="26" Column="10" />
+      <File FileName="POS_Console/Program.cs" Line="28" Column="62" />
+      <File FileName="POS_Console/Validation.cs" Line="11" Column="1" />
+      <File FileName="POS_Console/Stock.cs" Line="11" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="POS_Console" expanded="True">
             <Node name="POS_Console" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Items.cs" selected="True" />
             </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
