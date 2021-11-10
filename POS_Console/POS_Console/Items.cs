@@ -10,6 +10,7 @@ namespace POS_Console
         {
             Console.WriteLine("How many items?");
             int count = Convert.ToInt16(Console.ReadLine());
+            string payMethod = "";
             //doing 3 seperate lists for now (not ideal) eventually 3d??
             string[] items = new string[count];
             float[] prices = new float[count];
@@ -32,6 +33,8 @@ namespace POS_Console
                 runningTotal += prices[i] * quantity[i];
 
             }
+
+            Validation.Purchase(payMethod);
             Console.WriteLine("You purchased " + items.Count() + " items.");
             Console.WriteLine("For a total of: " + runningTotal);
 
