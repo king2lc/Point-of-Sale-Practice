@@ -1,2 +1,2 @@
 # Point of Sale Practice
- Practice for OOPS/
+ Trying to make a very basic POS system to practice and get better.
